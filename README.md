@@ -18,4 +18,8 @@ Login Page
 Popular courses 
 
 
+![select_course](https://cloud.githubusercontent.com/assets/17131715/18977064/ea325980-867c-11e6-8991-3fcb82e5dd75.png)
+Select course for recommendation 
+
+
 
