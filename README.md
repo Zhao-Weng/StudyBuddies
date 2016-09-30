@@ -12,3 +12,10 @@ Login Page
 
 
 
+
+
+![popular_course](https://cloud.githubusercontent.com/assets/17131715/18977048/c516e076-867c-11e6-9d74-5ab060e911ff.png)
+Popular courses 
+
+
+
